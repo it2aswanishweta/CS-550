@@ -6,6 +6,6 @@ Please read the following lines:
        ./OSassign1 3 2
        
 This assignment is about recursively creating a process hierarchy tree that is H levels deep, then printing out the process tree information as the tree is being created, and then systematically terminate all the processes in the tree.
-Here we are using fork(), exec() and wait() system calls
+Here we are using fork(), exec() and wait() system calls.
 
    
