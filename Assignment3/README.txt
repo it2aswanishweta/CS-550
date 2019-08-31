@@ -5,7 +5,7 @@ Here we observe the behavior of the producers and consumers if one gets killed o
 
 Next thing is we do is to create our own character device, this device maintains its own FIFO queue of maximum N numbers.
 
--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 ## Command to run the code
 
 1) make clean
